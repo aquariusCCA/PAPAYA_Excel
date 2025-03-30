@@ -3,6 +3,8 @@
 ---
 
 ### 📘 函數語法：
+> 返回某個字元在文字中的位置，若有多個相同字母，則僅返回第一個字母的位置。
+
 ```excel
 FIND(find_text, within_text, [start_num])
 ```
